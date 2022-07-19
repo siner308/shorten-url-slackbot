@@ -4,16 +4,16 @@ services:
     build:
       dockerfile: docker/django/Dockerfile
       context: .
-    container_name: "ttbkk-server-django"
+    container_name: "shortener-server-django"
     restart: always
     volumes:
       - static:/app/static
 
   nginx:
     image: nginx:1.21.1
-    container_name: "ttbkk-server-nginx"
+    container_name: "shortener-server-nginx"
     ports:
-      - "8000:80"
+      - "8001:80"
     restart: always
     volumes:
       - ./docker/nginx:/etc/nginx/conf.d

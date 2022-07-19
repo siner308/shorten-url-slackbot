@@ -9,4 +9,4 @@ COPY . /app
 
 RUN mkdir -p /app/statics
 RUN python3 manage.py collectstatic --noinput
-ENTRYPOINT ["gunicorn", "src.ttbkk.wsgi", "--bind", "0.0.0.0:8000"]
+ENTRYPOINT ["gunicorn", "config.wsgi", "--bind", "0.0.0.0:8000"]
