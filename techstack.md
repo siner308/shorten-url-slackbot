@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [siner308/shorten-url-slackbot](https://github.com/siner308/shorten-url-slackbot)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|12/14/23 <br/>Report generated|
+|11<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -129,7 +129,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[Django](https://pypi.org/project/Django)|v4.0.6|07/19/22|siner308 |BSD-3-Clause|[CVE-2023-31047](https://github.com/advisories/GHSA-r3xc-prgr-mg9p) (Critical)<br/>[CVE-2023-24580](https://github.com/advisories/GHSA-2hrw-hx67-34x6) (High)<br/>[CVE-2022-36359](https://github.com/advisories/GHSA-8x94-hmjh-97hq) (High)<br/>[CVE-2023-36053](https://github.com/advisories/GHSA-jh3w-4vvf-mjgr) (High)|
+|[Django](https://pypi.org/project/Django)|v4.0.6|07/19/22|siner308 |BSD-3-Clause|[CVE-2023-31047](https://github.com/advisories/GHSA-r3xc-prgr-mg9p) (Critical)<br/>[CVE-2023-36053](https://github.com/advisories/GHSA-jh3w-4vvf-mjgr) (High)<br/>[CVE-2022-36359](https://github.com/advisories/GHSA-8x94-hmjh-97hq) (High)<br/>[CVE-2023-24580](https://github.com/advisories/GHSA-2hrw-hx67-34x6) (High)|
 |[djangorestframework](https://pypi.org/project/djangorestframework)|v3.13.1|07/19/22|siner308 |BSD-3-Clause|N/A|
 |[gunicorn](https://pypi.org/project/gunicorn)|v20.1.0|07/19/22|siner308 |MIT|N/A|
 
